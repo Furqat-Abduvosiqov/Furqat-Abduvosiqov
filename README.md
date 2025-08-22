@@ -76,11 +76,16 @@ Feel free to [send me a message](https://www.linkedin.com/in/furqat-abduvosiqov-
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Furqat-Abduvosiqov&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furqat-Abduvosiqov&layout=compact&theme=radical&hide_border=true" width="48%" />
   
-  <!-- WakaTime Coding Activity -->
-  <img src="https://wakatime.com/share/@Furqat-Abduvosiqov/3c9d9f8e-4b9c-4d0a-8b0a-1c9d9e8f7g6h.png" alt="WakaTime Stats" />
-  
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Furqat-Abduvosiqov&theme=radical&hide_border=true" alt="Coding Streak" />
 </div>
 
 ---
