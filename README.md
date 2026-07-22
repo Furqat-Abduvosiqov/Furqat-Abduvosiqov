@@ -99,7 +99,7 @@ I actively use AI to improve engineering productivity:
 
 - 📧 **furqata93@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/furqat-abduvosiqov-719386219/
-- 💬 Telegram: https://t.me/furqat_dev
+- 💬 Telegram: https://t.me/Abduvosiqov_Furqat
 - 💻 GitHub: https://github.com/Furqat-Abduvosiqov
 
 ---
