@@ -30,20 +30,6 @@ Backend engineer with 4+ years of commercial experience building scalable .NET a
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,github,linux,vscode" />
 </p>
 
----
-
-# 🚀 Featured Expertise
-
-- Payment Systems & FinTech
-- Distributed Systems
-- REST APIs
-- Modular Monoliths
-- Multi-tenancy
-- RBAC / ABAC
-- Event-Driven Architecture
-- Performance Optimization
-
----
 
 # 📌 Featured Repositories
 
@@ -72,5 +58,5 @@ I enjoy solving complex backend problems through clean architecture, maintainabl
 
 - 💼 LinkedIn: https://www.linkedin.com/in/furqat-abduvosiqov-719386219/
 - 📧 Email: furqata93@gmail.com
-- 💬 Telegram: https://t.me/furqat_dev
+- 💬 Telegram: https://t.me/@Abduvosiqov_Furqat
 - 💻 GitHub: https://github.com/Furqat-Abduvosiqov
