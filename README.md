@@ -1,54 +1,76 @@
-# Hi, I'm Furqat Abduvosiqov 👋
+<h1 align="center">Hi 👋, I'm Furqat Abduvosiqov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Senior+.NET+Backend+Engineer;Distributed+Systems+Enthusiast;Clean+Architecture+%7C+DDD+%7C+Microservices;Open+to+Relocation" />
-</p>
-
-## 👨‍💻 About Me
-
-- 💼 4+ years of commercial experience building scalable .NET applications
-- 🏗 Passionate about Distributed Systems, Clean Architecture and DDD
-- 🤖 AI-assisted software engineering with ChatGPT, Claude Code and MCP
-- 🌍 Open to Remote and Relocation opportunities
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,github,linux,vscode"/>
-</p>
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Furqat-Abduvosiqov&show_icons=true&theme=github_dark&rank_icon=github"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furqat-Abduvosiqov&layout=compact&theme=github_dark"/>
+<b>Senior .NET Backend Engineer • Distributed Systems • Clean Architecture • Open to Relocation</b>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Furqat-Abduvosiqov&theme=github-dark-blue"/>
+<a href="https://github.com/Furqat-Abduvosiqov"><img src="https://img.shields.io/github/followers/Furqat-Abduvosiqov?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/furqat-abduvosiqov-719386219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:furqata93@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+Backend engineer with 4+ years of commercial experience building scalable .NET applications.
+
+- 🏗 ASP.NET Core, C#, Distributed Systems
+- ⚙️ Clean Architecture, DDD, Event-Driven Design
+- 🔐 Identity, Authentication & Authorization
+- 🤖 AI-assisted Engineering (ChatGPT, Claude Code, MCP)
+- 🌍 Open to Remote & Relocation
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furqat-Abduvosiqov&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,github,linux,vscode" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Furqat-Abduvosiqov&theme=github-dark"/>
-</p>
+---
 
-## 🏛 Engineering Interests
+# 🚀 Featured Expertise
 
-- Clean Architecture
-- Domain-Driven Design
-- Event-Driven Systems
-- Identity & Authentication
-- High-performance APIs
-- Observability (OpenTelemetry)
-- AI-assisted Engineering
+- Payment Systems & FinTech
+- Distributed Systems
+- REST APIs
+- Modular Monoliths
+- Multi-tenancy
+- RBAC / ABAC
+- Event-Driven Architecture
+- Performance Optimization
 
-## 📫 Connect
+---
 
-- LinkedIn: https://www.linkedin.com/in/furqat-abduvosiqov-719386219/
-- GitHub: https://github.com/Furqat-Abduvosiqov
-- Telegram: https://t.me/furqat_dev
-- Email: furqata93@gmail.com
+# 📌 Featured Repositories
+
+Pin your strongest repositories on your GitHub profile.
+
+Suggested order:
+
+1. Payment Service Provider
+2. Authentication / Identity
+3. Rental Platform
+4. Angular Project
+5. Open Source Library
+6. Portfolio Project
+
+---
+
+# 💡 Engineering Philosophy
+
+> "Simple systems scale better than clever systems."
+
+I enjoy solving complex backend problems through clean architecture, maintainable code and thoughtful system design.
+
+---
+
+# 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/furqat-abduvosiqov-719386219/
+- 📧 Email: furqata93@gmail.com
+- 💬 Telegram: https://t.me/furqat_dev
+- 💻 GitHub: https://github.com/Furqat-Abduvosiqov
