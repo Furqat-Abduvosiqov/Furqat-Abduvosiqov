@@ -1,62 +1,113 @@
-<h1 align="center">Hi 👋, I'm Furqat Abduvosiqov</h1>
+<div align="center">
 
-<p align="center">
-<b>Senior .NET Backend Engineer • Distributed Systems • Clean Architecture • Open to Relocation</b>
-</p>
+# 👋 Hi, I'm **Furqat Abduvosiqov**
 
-<p align="center">
+### Senior .NET Backend Engineer • Distributed Systems • Clean Architecture
+
+<p>
 <a href="https://github.com/Furqat-Abduvosiqov"><img src="https://img.shields.io/github/followers/Furqat-Abduvosiqov?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/furqat-abduvosiqov-719386219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:furqata93@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://img.shields.io/badge/Open%20to-Relocation-success?style=for-the-badge"><img src="https://img.shields.io/badge/Open%20to-Relocation-success?style=for-the-badge"/></a>
+<a href="mailto:furqata93@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/furqat-abduvosiqov-719386219/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-Backend engineer with 4+ years of commercial experience building scalable .NET applications.
+I'm a backend engineer from **Uzbekistan 🇺🇿** with **4+ years** of commercial experience building scalable .NET systems.
 
-- 🏗 ASP.NET Core, C#, Distributed Systems
-- ⚙️ Clean Architecture, DDD, Event-Driven Design
-- 🔐 Identity, Authentication & Authorization
-- 🤖 AI-assisted Engineering (ChatGPT, Claude Code, MCP)
-- 🌍 Open to Remote & Relocation
+I enjoy designing software that is:
+- ⚡ Fast
+- 🔒 Secure
+- 📈 Scalable
+- 🧩 Maintainable
+
+Recently I've been focusing on:
+
+- Distributed Systems
+- Identity & Authentication
+- Payment Platforms
+- Domain-Driven Design
+- Clean Architecture
+- AI-assisted Engineering
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,github,linux,vscode" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,docker,kubernetes,postgres,mysql,redis,rabbitmq,git,github,linux,postman,vscode"/>
+
 </p>
 
+---
 
-# 📌 Featured Repositories
+# 💼 What I Build
 
-Pin your strongest repositories on your GitHub profile.
-
-Suggested order:
-
-1. Payment Service Provider
-2. Authentication / Identity
-3. Rental Platform
-4. Angular Project
-5. Open Source Library
-6. Portfolio Project
+```text
+✔ REST APIs
+✔ Microservices
+✔ Modular Monoliths
+✔ Authentication & Authorization
+✔ Multi-Tenant Platforms
+✔ Event-Driven Systems
+✔ Payment Integrations
+✔ High Performance Backend Services
+```
 
 ---
 
-# 💡 Engineering Philosophy
+# 📊 GitHub
 
-> "Simple systems scale better than clever systems."
+> Replace these with GitHub Actions metrics if desired.
 
-I enjoy solving complex backend problems through clean architecture, maintainable code and thoughtful system design.
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furqat-Abduvosiqov&theme=github_dark)
 
 ---
 
-# 📫 Connect
+# 🧠 Engineering Interests
 
+- Clean Architecture
+- Domain-Driven Design
+- CQRS
+- Event Sourcing
+- Distributed Systems
+- OAuth2 & OpenID Connect
+- Observability
+- Performance Optimization
+
+---
+
+# 🤖 AI
+
+I actively use AI to improve engineering productivity:
+
+- ChatGPT
+- Claude Code
+- MCP Servers
+- AI-powered code review
+- Documentation generation
+- Architecture brainstorming
+
+---
+
+# 📫 Reach Me
+
+- 📧 **furqata93@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/furqat-abduvosiqov-719386219/
-- 📧 Email: furqata93@gmail.com
-- 💬 Telegram: https://t.me/@Abduvosiqov_Furqat
+- 💬 Telegram: https://t.me/furqat_dev
 - 💻 GitHub: https://github.com/Furqat-Abduvosiqov
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Great software is built through simplicity, consistency, and continuous learning."*
+
+</div>
